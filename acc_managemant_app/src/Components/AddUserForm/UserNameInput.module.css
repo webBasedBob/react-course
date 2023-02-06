@@ -1,0 +1,10 @@
+.input-wrapper {
+  display: flex;
+  flex-direction: column;
+  font-size: 2rem;
+  font-weight: 500;
+  gap: 1rem;
+}
+.user-name-input {
+  font-size: 2rem;
+}

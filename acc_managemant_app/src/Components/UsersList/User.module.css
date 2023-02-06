@@ -1,0 +1,8 @@
+.user {
+  border: 1px solid black;
+  font-size: 1.6rem;
+  padding: 6px;
+}
+.username {
+  text-transform: capitalize;
+}

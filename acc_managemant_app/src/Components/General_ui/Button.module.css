@@ -1,0 +1,10 @@
+.button {
+  border: none;
+  background-color: #4c0b56;
+  color: #fff;
+  padding: 5px 2rem;
+  border-radius: 5px;
+  font-size: 2rem;
+  align-self: flex-start;
+  margin-top: 1rem;
+}
